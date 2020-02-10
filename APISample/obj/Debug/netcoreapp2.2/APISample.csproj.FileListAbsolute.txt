@@ -1,0 +1,14 @@
+E:\Training\APISample\APISample\bin\Debug\netcoreapp2.2\APISample.deps.json
+E:\Training\APISample\APISample\bin\Debug\netcoreapp2.2\APISample.runtimeconfig.json
+E:\Training\APISample\APISample\bin\Debug\netcoreapp2.2\APISample.runtimeconfig.dev.json
+E:\Training\APISample\APISample\bin\Debug\netcoreapp2.2\APISample.dll
+E:\Training\APISample\APISample\obj\Debug\netcoreapp2.2\APISample.csproj.CoreCompileInputs.cache
+E:\Training\APISample\APISample\obj\Debug\netcoreapp2.2\APISample.RazorAssemblyInfo.cache
+E:\Training\APISample\APISample\obj\Debug\netcoreapp2.2\APISample.RazorAssemblyInfo.cs
+E:\Training\APISample\APISample\obj\Debug\netcoreapp2.2\APISample.AssemblyInfoInputs.cache
+E:\Training\APISample\APISample\obj\Debug\netcoreapp2.2\APISample.AssemblyInfo.cs
+E:\Training\APISample\APISample\obj\Debug\netcoreapp2.2\APISample.RazorTargetAssemblyInfo.cache
+E:\Training\APISample\APISample\bin\Debug\netcoreapp2.2\APISample.pdb
+E:\Training\APISample\APISample\obj\Debug\netcoreapp2.2\APISample.dll
+E:\Training\APISample\APISample\obj\Debug\netcoreapp2.2\APISample.pdb
+E:\Training\APISample\APISample\obj\Debug\netcoreapp2.2\APISample.csprojAssemblyReference.cache
